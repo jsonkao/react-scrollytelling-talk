@@ -2,3 +2,4 @@ Scrollytelling is widely used by graphics reporters, data scientists, and front-
 
 ## Good Examples
 [Reuters Thai Rescue Graphic](http://fingfx.thomsonreuters.com/gfx/rngs/THAILAND-ACCIDENT-CAVE/0100711G258/index.html)
+[NYT Trump Climate Change](https://www.nytimes.com/interactive/2016/12/08/us/trump-climate-change.html)
