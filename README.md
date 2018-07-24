@@ -19,6 +19,7 @@ Introduce people to scrollytelling, and explain the implementation in React, sub
 
 #### What is scrollytelling?
 - [a gif example]
+- [short bio](https://pudding.cool/process/how-to-implement-scrollytelling/)
 - Scrollytelling is a storytelling technique in which content “unfolds” as the user scrolls.
 
 #### Why use scrollytelling in your work?
@@ -26,9 +27,10 @@ Introduce people to scrollytelling, and explain the implementation in React, sub
 #### How to implement scrollytelling in React: Intersection Observer API and sticky positioning
 - “This is experimental technology.”, and
 - the shameless love child 👪 of relative and fixed
+> One of the biggest implementation pains with scrollytelling is the sticky graphic pattern, whereby the graphic scrolls into view, becomes “stuck” for a duration of steps, then exits and “unsticks” when the steps conclude.
 
 #### Sticky positioning
-- [brief description of sticky positioning]
+- [what is sticky?](https://pudding.cool/process/scrollytelling-sticky/)
 - [live coding]
 
 #### Intersection Observer API
