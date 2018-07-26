@@ -19,7 +19,7 @@ Introduce people to scrollytelling, and explain the implementation in React, sub
 So a little about me...
 - freelance developer at a Canadian tech consultancy doing React & React Native
 - incoming Freshman @ Columbia studying CS, political science, stats
-- if you ever need a catnip toy, find my contact info at jasonkao.me
+- I put my personal website on there too, because, if you ever need a catnip toy, you can find my contact info there.
 
 ### What is scrollytelling?
 - [short bio](https://pudding.cool/process/how-to-implement-scrollytelling/)
