@@ -10,7 +10,7 @@ Component library: [react-scrollama](https://github.com/jsonkao/react-scrollama)
 
 Introduce people to scrollytelling, and explain the implementation in React, subsequently introducing people the Interaction Observer and sticky positioning for further applications.
 
-#### Intro
+### Intro
 - "Mainly on Scrollytelling"
 
 #### About me
@@ -63,7 +63,7 @@ const observer = new IntersectionObserver(callback, options);
 observer.observe(targetEl);
 ```
 
-# First, the options
+### First, the options
 ```js
 const options = {
   root: null,
@@ -96,6 +96,9 @@ observer.observe(targetEl);
 - [what is sticky?](https://pudding.cool/process/scrollytelling-sticky/)
 - [live coding]
 - The shameless love child 👪 of relative and fixed
+
+### React Scrollama
+- [demo](https://jsonkao.github.io/react-scrollama/)
 
 #### Outro
 - jasonkao.me
