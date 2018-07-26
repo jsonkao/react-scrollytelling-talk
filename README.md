@@ -22,16 +22,17 @@ So a little about me...
 
 ### What is scrollytelling?
 - [short bio](https://pudding.cool/process/how-to-implement-scrollytelling/)
-- Scrollytelling is a storytelling technique in which content “unfolds” as the user scrolls.
+- Scrollytelling is a storytelling technique where content “unfolds” as the user scrolls.
 - [example: Snow Fall](http://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=descent-begins)
   - It's about an avalanche...that's all I can tell you...but it looks really cool.
 
-Let's get into the purpose of scrollytelling, and why you should consider using it for your next storytelling interactive. If you're not making a storytelling interactive anytime soon, don't worry, this talk is only mainly on storytelling, I promise there'll be other useful stuff.
+Let's get into why scrollytelling?, and why you should consider using it for your next storytelling interactive.
 
 #### Why use scrollytelling?
 - To answer this question, I'm gonna use Bran Ferren's quote, "The Web is a Storytelling Medium". I really dig this.
-- I just graduated high school, so most of my friends, when I tell them I do web development, they say, ew, I hate JS, why are there 3 equal signs, web development is so boring. Now that's like an electrical engineer thinking poetry is the cinquain his 2nd grade son wrote.
-- No, interactive web development is not just flashy animations. On the web, we have several different types of content, like text, and images and video, and the web brings them together in a unique medium. Scrolling is just an intuitive way to do that.
+- I just graduated high school, so most of my friends, when I tell them I do web development, they say, ew, I hate JS, why are there 3 equal signs, web development is so boring.
+- Obviously, I hope most of the people in this room don't have that view, web development is art, really, it can be beautiful, it can be thoughtful.
+- And, interactive web development is not just flashy animations. On the web, we have several different types of content, like text, and images and video, and the web brings them together in a unique medium. Scrolling is just an intuitive way to do that.
 
 #### Sticky Graphic Pattern
 - Now, one of the most popular scrollytelling patterns is the sticky graphic pattern, this is where a graphic scrolls into view, "sticks" for a duration of steps, then unsticks when the steps conclude.
