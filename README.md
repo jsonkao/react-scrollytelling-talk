@@ -11,7 +11,7 @@ Component library: [react-scrollama](https://github.com/jsonkao/react-scrollama)
 Introduce people to scrollytelling, and explain the implementation in React, subsequently introducing people the Interaction Observer and sticky positioning for further applications.
 
 #### Intro
-- "Mainly Scrollytelling"
+- "Mainly on` Scrollytelling"
 
 #### About me
 - freelance developer at a Canadian tech consultancy doing React Native
@@ -21,11 +21,19 @@ Introduce people to scrollytelling, and explain the implementation in React, sub
 - [short bio](https://pudding.cool/process/how-to-implement-scrollytelling/)
 - Scrollytelling is a storytelling technique in which content “unfolds” as the user scrolls.
 - [a few examples]
+- The idea of interactive storytelling with scrolling isn't just for flasy animations, though.
 
 #### Why use scrollytelling?
+- "The Web is a Storytelling Medium" —Bran Ferren, I really dig this.
+- I just graduated high school, so whenever I tell my friends I do web development the response is always, ew, I hate CSS, web development is so boring. But to me it's one of the most beautiful ways to code.
+- We have these different types of content, like text, and images and video, and the web can bring them together in a unique medium, and scrolling can be an intuitive way to do that.
+
+#### Sticky Graphic Pattern
+- [example: Snow Fall](http://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=descent-begins)
+- [example: Women in Congress](https://pudding.cool/2018/07/women-in-congress/)
 
 #### How to implement scrollytelling in React: Implementation details
-> One of the biggest implementation pains with scrollytelling is the sticky graphic pattern, whereby the graphic scrolls into view, becomes “stuck” for a duration of steps, then exits and “unsticks” when the steps conclude.
+> One of the biggest implementation pains with scrollytelling is the sticky graphic pattern, whereby the graphic scrolls into view, becomes “stuck” for a duration of steps, then exits and “unsticks” when the steps conclude. —Russel Goldenberg
 
 ### Why the Intersection Observer?
 
