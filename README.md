@@ -1,8 +1,6 @@
-<p align="center">
-  <strong>Repository for my React NYC talk on scrollytelling.</strong>
-</p>
+# ReactNYC: HyHNuVaZJ
 
-Scrollytelling is widely used by graphics reporters, data scientists, and front-end developers, yet it can be complicated to implement, especially in React. In this talk I will give an overview of this storytelling technique, its applications, and some best practices. I will also demonstrate how to create a crude visual essay in React with a simple scrollytelling library I wrote.
+Tip sheet for my talk at ReactNYC: HyHNuVaZ. Watch the full talk [here](https://www.youtube.com/watch?v=zR_LDPLMUvE).
 
 Component library: [react-scrollama](https://github.com/jsonkao/react-scrollama)
 
