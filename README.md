@@ -1,6 +1,6 @@
 # ReactNYC: HyHNuVaZJ
 
-Tip sheet for my talk at ReactNYC: HyHNuVaZ. Watch the full talk [here](https://www.youtube.com/watch?v=zR_LDPLMUvE).
+Tip sheet for [ReactNYC: HyHNuVaZ](https://www.youtube.com/watch?v=zR_LDPLMUvE) talk.
 
 Component library: [react-scrollama](https://github.com/jsonkao/react-scrollama)
 
